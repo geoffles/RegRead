@@ -23,7 +23,7 @@ There are three files which you will need to edit:
 2. For each of the above files,
   1.  Open the file
   2.  Goto 'Find and Replace'
-  3.  Find `'reg query` , replace with `'RegRead.exe query`
+  3.  Find `'reg query` , replace with `'RegRead query`
   4.  Test!
   
 Happy CLIing.
